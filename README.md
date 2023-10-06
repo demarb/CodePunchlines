@@ -1,8 +1,22 @@
-# React + Vite
+# Code punchlines?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Available at: 
 
-Currently, two official plugins are available:
+## Project Overview:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Code Punchlines is a web for programming jokes to demonstrate (Tanstack) React-Query with Axios.
+
+## Key Features:
+
+Code Punchlines can:
+Display Up to Ten Setups for Jokes.
+Get the punchline for a joke
+Refetch query. The query becomes stale after 1 minute and will auto-update if the screen loses and regains focus or route changes.
+
+### API Used:
+
+https://sv443.net/jokeapi/v2/
+
+### Preview:
+
+![App preview](./preview.png)
