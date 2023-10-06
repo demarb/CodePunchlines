@@ -1,6 +1,6 @@
-# Code punchlines?
+# Code Punchlines
 
-Available at: 
+Available at: https://codepunchlines.netlify.app/
 
 ## Project Overview:
 
